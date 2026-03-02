@@ -28,6 +28,17 @@
 Запустить оркестратор: python orchestrator_v2.py
 Запустить бота: python telegram_bot.py
 
+## 📸 Демонстрация
+
+### Главное меню
+![Главное меню]([screenshots/start-menu.png](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/start-menu.png))
+
+### Отчёт по должнику
+![Отчёт по должнику](screenshots/debtor-report.png)
+
+### Статистика
+![Статистика](screenshots/stats.png)
+
 ## 👤 Автор
 [Ваше имя]
 - Юрист (ФССП, взыскание)
