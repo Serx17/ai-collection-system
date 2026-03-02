@@ -46,13 +46,13 @@
 ![Статистика](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/github-repo.png)
 
 ## 👤 Автор
-[Сергей Антоненко]
+Сергей Антоненко
 - AI-архитектор (мультиагентные системы)
 
 ## 📞 Контакты
 - Telegram: @nspoli
 - Email: snantonenko17@gmail.com
-- TenChat: [https://tenchat.ru/4931217]
+- TenChat: https://tenchat.ru/4931217
 
 ## ⚖️ Лицензия
 MIT License
