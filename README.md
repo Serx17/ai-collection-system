@@ -46,14 +46,12 @@
 ![Статистика](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/github-repo.png)
 
 ## 👤 Автор
-[Ваше имя]
-- Юрист (ФССП, взыскание)
-- Операционный директор (лидогенерация для банков)
+[Сергей Антоненко]
 - AI-архитектор (мультиагентные системы)
 
 ## 📞 Контакты
-- Telegram: @your_username
-- Email: your@email.com
+- Telegram: @nspoli
+- Email: snantonenko17@gmail.com
 
 ## ⚖️ Лицензия
 MIT License
