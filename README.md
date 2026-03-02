@@ -31,7 +31,7 @@
 ## 📸 Демонстрация
 
 ### Главное меню
-![Главное меню]([screenshots/start-menu.png](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/start-menu.png))
+![Главное меню](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/start-menu.png)
 
 ### Отчёт по должнику
 ![Отчёт по должнику](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/debtor-report.png)
