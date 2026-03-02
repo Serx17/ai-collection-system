@@ -35,7 +35,7 @@
 
 ### Отчёт по должнику
 ![Отчёт по должнику](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/debtor-report.png)
-https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/debtor-report2.png
+![Отчёт по должнику](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/debtor-report2.png)
 
 
 ### Статистика
