@@ -41,6 +41,10 @@
 ### Статистика
 ![Статистика](screenshots/stats.png)
 
+
+### GitHub репозиторий
+![Статистика](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/github-repo.png)
+
 ## 👤 Автор
 [Ваше имя]
 - Юрист (ФССП, взыскание)
