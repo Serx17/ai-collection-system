@@ -52,6 +52,7 @@
 ## 📞 Контакты
 - Telegram: @nspoli
 - Email: snantonenko17@gmail.com
+- TenChat: [[профиль]](https://tenchat.ru/4931217)
 
 ## ⚖️ Лицензия
 MIT License
