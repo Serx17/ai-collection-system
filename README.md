@@ -34,7 +34,9 @@
 ![Главное меню]([screenshots/start-menu.png](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/start-menu.png))
 
 ### Отчёт по должнику
-![Отчёт по должнику](screenshots/debtor-report.png)
+![Отчёт по должнику](https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/debtor-report.png)
+https://raw.githubusercontent.com/Serx17/ai-collection-system/main/screenshots/debtor-report2.png
+
 
 ### Статистика
 ![Статистика](screenshots/stats.png)
